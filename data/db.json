@@ -1,0 +1,36 @@
+{
+  "details": [
+    {
+      "name": "Steve",
+      "mail": "steve@mail.com",
+      "img": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png",
+      "gender": "Male",
+      "skills": "HTML",
+      "id": 1
+    },
+    {
+      "name": "David",
+      "mail": "david@mail.com",
+      "gender": "Male",
+      "skills": "CSS",
+      "img": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png",
+      "id": 2
+    },
+    {
+      "name": "Garry",
+      "mail": "garry@mail.com",
+      "gender": "Male",
+      "skills": "HTML CSS JavaScript",
+      "img": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png",
+      "id": 3
+    },
+    {
+      "name": "Sasha",
+      "mail": "sasha@mail.com",
+      "gender": "Female",
+      "skills": "HTML",
+      "img": "https://www.svgrepo.com/show/382097/female-avatar-girl-face-woman-user-9.svg",
+      "id": 4
+    }
+  ]
+}
